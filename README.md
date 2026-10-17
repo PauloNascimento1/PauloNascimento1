@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**PauloNascimento1/PauloNascimento1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Paulo 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  Backend Developer | C# · .NET · Go
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Building backend applications and exploring
+  distributed systems, messaging and databases.
+</p>
+
+---
+
+### 🚀 About Me
+
+- 💻 Studying backend development with C# and .NET
+- 🐹 Learning Go and exploring its ecosystem
+- 📡 Exploring Apache Kafka and event-driven architecture
+- 🗄️ Learning about relational and NoSQL databases
+- 🧠 Focused on writing clean, maintainable code
+
+### 🛠️ Technologies & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,go,docker,kafka,postgres,mongodb,git,linux" />
+</p>
+
+### 📌 Featured Projects
+
+- **Project One** — A short description of the project.
+- **Project Two** — A backend application exploring messaging.
+- **Project Three** — A project focused on databases and APIs.
+
+### 📫 Connect with me
+
+- LinkedIn: YOUR_LINKEDIN_URL
+- Email: YOUR_PUBLIC_EMAIL
