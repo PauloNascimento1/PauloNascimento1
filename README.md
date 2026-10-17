@@ -1,38 +1,82 @@
 
-<h1 align="center">Hi, I'm Paulo 👋</h1>
+<div align="center">
 
-<h3 align="center">
-  Backend Developer | C# · .NET · Go
-</h3>
+# Desenvolvedor Backend | .NET/C# · Go
 
-<p align="center">
-  Building backend applications and exploring
-  distributed systems, messaging and databases.
-</p>
+Construindo projetos e aprofundando conhecimentos em arquitetura
+de software, padrões de desenvolvimento, APIs, sistemas distribuídos,
+práticas DevOps e persistência de dados.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PauloNascimento1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/paulogustavonascimento/)
+
+</div>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 Sobre mim
 
-- 💻 Studying backend development with C# and .NET
-- 🐹 Learning Go and exploring its ecosystem
-- 📡 Exploring Apache Kafka and event-driven architecture
-- 🗄️ Learning about relational and NoSQL databases
-- 🧠 Focused on writing clean, maintainable code
+- 💻 Foco no desenvolvimento backend com C# e .NET.
+- 🐹 Estudando Go e explorando seu ecossistema.
+- 📡 Explorando Apache Kafka e arquiteturas orientadas a eventos.
+- 🐳 Utilizando Docker para executar e organizar ambientes de desenvolvimento.
+- 🗄️ Aprofundando conhecimentos em bancos de dados SQL e NoSQL.
+- 🧠 Buscando evoluir em arquitetura, qualidade de código e boas práticas.
 
-### 🛠️ Technologies & Tools
+Meu objetivo é construir projetos que me permitam aplicar conceitos na prática, entender decisões de arquitetura e desenvolver soluções cada vez mais robustas e bem estruturadas.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,go,docker,kafka,postgres,mongodb,git,linux" />
-</p>
+## 🛠️ Tecnologias e ferramentas
 
-### 📌 Featured Projects
+<div align="center">
 
-- **Project One** — A short description of the project.
-- **Project Two** — A backend application exploring messaging.
-- **Project Three** — A project focused on databases and APIs.
+### Linguagens e desenvolvimento
 
-### 📫 Connect with me
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120)
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8)
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_PUBLIC_EMAIL
+### Infraestrutura e mensageria
+
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### Bancos de dados
+
+![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=F80000)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+### Ferramentas e sistemas
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+</div>
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento de APIs e aplicações backend.
+- Organização de código e princípios de arquitetura.
+- Mensageria, processamento assíncrono e Apache Kafka.
+- Sistemas distribuídos e comunicação entre serviços.
+- Modelagem de dados relacionais e não relacionais.
+- Containerização e ambientes de desenvolvimento com Docker.
+
+## 📈 Minha evolução
+
+Acredito que evoluir como desenvolvedor vai além de escrever código:
+envolve compreender os problemas, testar alternativas, aprender com
+os erros e tomar decisões técnicas cada vez melhores.
+
+Este perfil reúne meus projetos e minha jornada de aprendizado
+em desenvolvimento backend.
+
+---
+
+<div align="center">
+
+**Código, consistência e evolução contínua.**
+
+</div>
