@@ -1,82 +1,132 @@
+ <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:050816,100:0B1F4B&text=PAULO%20GUSTAVO%20NASCIMENTO&fontColor=58A6FF&fontSize=27&fontAlignY=42&desc=Desenvolvedor%20Backend%20%7C%20C%23%20%2F%20.NET%20%2F%20GO&descSize=13&descAlignY=68&descColor=C9D1D9" alt="Paulo Gustavo Nascimento — Desenvolvedor Backend"/>
+
+</div>
+
+```text
+┌──[paulo@github]─[~/backend]
+└─$ whoami
+
+   Paulo Gustavo Nascimento
+   Backend Development | C# · .NET · Go
+
+┌──[paulo@github]─[~/backend]
+└─$ cat about.txt
+
+   Construindo soluções backend.
+   Explorando arquitetura, mensageria e persistência.
+   Aprendendo na prática, evoluindo a cada implementação.
+```
 
 <div align="center">
 
-# Desenvolvedor Backend | .NET/C# · Go
+<a href="https://github.com/PauloNascimento1">
+  <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/paulogustavonascimento/">
+  <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/>
+</a>
 
-Construindo projetos e aprofundando conhecimentos em arquitetura
-de software, padrões de desenvolvimento, APIs, sistemas distribuídos,
-práticas DevOps e persistência de dados.
+</div>
+
+---
+
+## `01` // Sobre mim
+
+Sou focado em **desenvolvimento backend**, com interesse em construir serviços bem estruturados, compreender decisões de arquitetura e desenvolver soluções legíveis, testáveis e sustentáveis.
+
+Minha principal stack de estudos envolve **C# e .NET**, com **Go** como outra linguagem no meu caminho de aprendizado. Também exploro mensageria, infraestrutura com containers e diferentes tecnologias de persistência.
+
+Acredito em aprender construindo: escrever código, testar hipóteses, identificar problemas, refatorar e entender os motivos por trás de cada decisão técnica.
+
+**Áreas de interesse:**
+
+- Desenvolvimento de APIs e serviços backend.
+- Clean Code, organização e manutenção de código.
+- Arquitetura de software e design de sistemas.
+- Mensageria e processamento assíncrono com Kafka.
+- Docker e ambientes de desenvolvimento.
+- Bancos de dados e persistência de dados.
+
+## `02` // Stack técnica
+
+<div align="center">
+
+**[ LANGUAGES & FRAMEWORKS ]**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go&theme=dark" alt="C#, .NET e Go"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PauloNascimento1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/paulogustavonascimento/)
+**[ INFRASTRUCTURE & MESSAGING ]**
+
+<img src="https://skillicons.dev/icons?i=docker,kafka,linux,git&theme=dark" alt="Docker, Kafka, Linux e Git"/>
+
+<br/>
+
+**[ DATABASES ]**
+
+![Oracle](https://img.shields.io/badge/Oracle-0B1220?style=flat-square&logo=oracle&logoColor=F80000)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0B1220?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
+![MySQL](https://img.shields.io/badge/MySQL-0B1220?style=flat-square&logo=mysql&logoColor=4479A1)
+![MariaDB](https://img.shields.io/badge/MariaDB-0B1220?style=flat-square&logo=mariadb&logoColor=003545)
+![MongoDB](https://img.shields.io/badge/MongoDB-0B1220?style=flat-square&logo=mongodb&logoColor=47A248)
+
+</div>
+
+## `03` // Em exploração
+
+```yaml
+backend:
+  languages:
+    - C#
+    - Go
+  platform:
+    - .NET
+  practices:
+    - Clean Code
+    - Code Refactoring
+    - API Development
+    - Software Design
+
+distributed_systems:
+  messaging:
+    - Apache Kafka
+  infrastructure:
+    - Docker
+  concepts:
+    - Event-Driven Architecture
+    - Asynchronous Processing
+    - Service Communication
+
+data:
+  databases:
+    - Oracle Database
+    - Microsoft SQL Server
+    - MySQL
+    - MariaDB
+    - MongoDB
+```
+
+## `04` // GitHub analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloNascimento1&layout=compact&hide_border=true&bg_color=050816&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Linguagens mais utilizadas no GitHub"/>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
-
-- 💻 Foco no desenvolvimento backend com C# e .NET.
-- 🐹 Estudando Go e explorando seu ecossistema.
-- 📡 Explorando Apache Kafka e arquiteturas orientadas a eventos.
-- 🐳 Utilizando Docker para executar e organizar ambientes de desenvolvimento.
-- 🗄️ Aprofundando conhecimentos em bancos de dados SQL e NoSQL.
-- 🧠 Buscando evoluir em arquitetura, qualidade de código e boas práticas.
-
-Meu objetivo é construir projetos que me permitam aplicar conceitos na prática, entender decisões de arquitetura e desenvolver soluções cada vez mais robustas e bem estruturadas.
-
-## 🛠️ Tecnologias e ferramentas
-
 <div align="center">
 
-### Linguagens e desenvolvimento
+```text
+[ STATUS ] Learning in progress.
+[ FOCUS  ] Backend engineering.
+[ METHOD ] Build. Test. Refactor. Repeat.
+```
 
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120)
-![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8)
-
-### Infraestrutura e mensageria
-
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-### Bancos de dados
-
-![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=F80000)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
-
-### Ferramentas e sistemas
-
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-
-</div>
-
-## 📚 Atualmente estudando
-
-- Desenvolvimento de APIs e aplicações backend.
-- Organização de código e princípios de arquitetura.
-- Mensageria, processamento assíncrono e Apache Kafka.
-- Sistemas distribuídos e comunicação entre serviços.
-- Modelagem de dados relacionais e não relacionais.
-- Containerização e ambientes de desenvolvimento com Docker.
-
-## 📈 Minha evolução
-
-Acredito que evoluir como desenvolvedor vai além de escrever código:
-envolve compreender os problemas, testar alternativas, aprender com
-os erros e tomar decisões técnicas cada vez melhores.
-
-Este perfil reúne meus projetos e minha jornada de aprendizado
-em desenvolvimento backend.
-
----
-
-<div align="center">
-
-**Código, consistência e evolução contínua.**
+<sub>Construindo conhecimento através do código.</sub>
 
 </div>
