@@ -36,7 +36,7 @@
 
 Sou focado em **desenvolvimento backend**, com interesse em construir serviços bem estruturados, compreender decisões de arquitetura e desenvolver soluções legíveis, testáveis e sustentáveis.
 
-Minha principal stack de estudos envolve **C# e .NET**, com **Go** como outra linguagem no meu caminho de aprendizado. Também exploro mensageria, infraestrutura com containers e diferentes tecnologias de persistência.
+Minha principal stack de estudos envolve **C# e .NET** e **Go**. Também exploro mensageria, infraestrutura com containers e diferentes tecnologias de persistência.
 
 Acredito em aprender construindo: escrever código, testar hipóteses, identificar problemas, refatorar e entender os motivos por trás de cada decisão técnica.
 
